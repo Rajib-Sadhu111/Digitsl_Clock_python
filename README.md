@@ -8,7 +8,7 @@ It displays the current time in hours, minutes, and seconds with a simple yet in
 
 The main goal of this project is to practice Python GUI development and understand how real-time applications work.
 
- ##Features
+ #Features
 
  Real-time digital clock
 
@@ -26,7 +26,7 @@ Library: Tkinter (for GUI)
 
 OS Compatibility: Works on Windows, macOS, and Linux
 
- ##How to Run the Project
+ #How to Run the Project
 
 Make sure you have Python 3.x installed on your system.
 
